@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: rgba(13, 227, 255, 0.459);
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+div{
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.74);
+    border-radius: 16px;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+img{
+    
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
